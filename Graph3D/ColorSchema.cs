@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.Drawing;
 using System.Text;
 
-namespace Plot3D
+namespace Plot3D 
 {
     public class ColorSchema
     {
